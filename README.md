@@ -22,6 +22,7 @@ If you have not applied to be a part of the projects and are interested in doing
 
 ^Note that this is how much 'feels' done. Software development is infamous for the difficulty of gauging how much work it will take for a particular aspect of a project.
 If you are interested in how companies address this issue, I would recommend checking out Agile methodology. One day methods such as these may become a highlight of the club.
+
 *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.
 
 ## Shortcomings Last Semster
