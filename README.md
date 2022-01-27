@@ -16,4 +16,4 @@ Everything you need for working through Software Development Club Projects!
 |4/17||
 |4/24| Bugs are hammered out |
 |5/1| Presentation!* |
-* Informal presentation where you share what you did, how you did, and what you learned with the group
+*Informal presentation where you share what you did, how you did, and what you learned with the group
