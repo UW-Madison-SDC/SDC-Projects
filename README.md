@@ -7,7 +7,7 @@ If you have not applied to be a part of the projects and are interested in doing
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
 |2/6| First Meeting | Be Excited! |
-|2/13| Project Ideas and Components | Project you want to do is chosen, and roles are assigned |
+|2/13| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
 |2/20|  |  |
 |2/27|  |  |
 |3/6| Checkin on progress | Should be around 40% done |
@@ -25,7 +25,12 @@ If you are interested in how companies address this issue, I would recommend che
 
 *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.
 
-## Shortcomings Last Semster
+## How To Be Successful
+* Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
+* Put in consistent work rather than putting it off and not getting to it.
+* Communicate!
+
+## Shortcomings Last Semester
 Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
 * There was a lot of confusion with the random assignment of project leads as there were not enough applicants for the number of those interested in participating in projects
 * Project levels were vague, and so were deadlines about the project, leaving many groups in the dark about when they should be done with what.
@@ -36,4 +41,7 @@ Projects are going to be similar to last year but we hope to address some challe
    * Some simply showed up to the first meeting, applied to take part in a project, then realized they overcommited.
 
 ## Addressing the Shortcomings
-We have attempted to address all of these issues (and of course if there were other issues, please let us know in the project form). We now have a more concrete definition of programming levels with approximate class breakdown (see form), we are trying to alleviate the randomness of leads, we are having an end of semester project celebration / informal presentation, and something you already likely noticed, we posted project applications after our first meeting. Additionally, we have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. If you have an idea, but don't know how to break it up for your group, please email me (segedi@wisc.edu) and I will get back to you with my thoughts or I can schedule a chat so we can work through it together if you prefer.
+We have attempted to address all of these issues (and of course if there were other issues, please let us know in the project form). We now have a more concrete definition of programming levels with approximate class breakdown (see form), we are trying to alleviate the randomness of leads by asking for those who are willing to take on the role, we are having an end of semester project celebration / informal presentation, and something you already likely noticed, this is available after our first meeting in the discord. Additionally, we have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. If you have an idea, but don't know how to break it up for your group, please email me (segedi@wisc.edu) and I will get back to you with my thoughts or I can schedule a chat so we can work through it together if you prefer.
+
+## My Parting Thoughts
+Projects are a chance to engage with your peers, learn how to work in a team, experience taking on responsibility and leadership, and work on your development skills. This makes these projects a fantastic oppurtunity for growth; however, they only provide as much as we put into them. In addition to that, they are extracurricular in nature, and everyone understands that classes can become overwhelming and take priority. If it is the case that you no longer wish to work on a project, please communicate with your point of contact that is the case.
