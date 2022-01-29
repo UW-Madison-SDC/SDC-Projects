@@ -1,5 +1,4 @@
-# Project Template
-## Guidelines
+# Guidelines
 ### All Projects
 * Each member should be assigned at least one component or task as agreed upon by the group, separate from all other components and members
 * A component is a part of the project that will require development to complete, this could be a feature or a core part of the program.
@@ -22,22 +21,22 @@
 * Should do data processing (for example parsing a csv, or querying a database)
 * Should also satisfy the intermediate project requirements
 
-## Ideas and Examples
+# Ideas and Examples
 Below are some examples of projects that could be designed in a way to cover any difficulty. I provide a couple examples of "dressing" a project up or down based on skill level too. Most projects can be dressed up or down, but some are more suited for a particular skill level.
 
-### Games
+## Games
 Games are fun and can be motiviating to work on because of that.
-#### Chess
+### Chess
 I personally love chess, and I have made it about 4 times now. It is a lot of fun to do and I have found it is a great benchmark for testing my own skills.
 
-##### Example Core Components
+#### Example Core Components
 * **Input / Output (incl. display)**
 * **Moves, Pieces, Check, Checkmate**
 * **Players, turns - playing the game**
 * **Special Moves (En pessant, castling, pawn promotion)**
 * Stalemate
 
-##### Additional Components
+#### Additional Components
 * Highlighting playable moves (UI versions)
 * Save Games
 * Move Timer (tournament style)
@@ -49,15 +48,15 @@ I personally love chess, and I have made it about 4 times now. It is a lot of fu
 * Enemy AI (single player mode)
 * Puzzles
 
-#### Uno
+### Uno
 Make the family classic, or a spinoff with the "illegal plays" - stacking should be official. With games like this, it is an advantage to know who has what cards, so input / ouput should consider this and work around it.
-##### Example Core Components
+#### Example Core Components
 * **Input / Output (incl. display)**
 * **Valid card plays, deck, shuffle**
 * **Point system**
 * **Special cards (wild, draw 2, skip, etc.)**
 
-##### Additional Components
+#### Additional Components
 * Save Games
 * Highlighting playable cards (UI versions)
 * Lowscores (given a certain number of games played), or Highscores if you want to embarass your friends
@@ -65,16 +64,16 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Enemy AI
 * Online play
 
-#### Yahtzee
-#### Black Jack
+### Yahtzee
+### Black Jack
 
-### Business
-#### Task Manger (Calendar etc.)
-##### Example Core Components
+## Business
+### Task Manger (Calendar etc.)
+#### Example Core Components
 * **Persistently delete, add, edit tasks**
 * **Input / Output**
 
-##### Additional Components
+#### Additional Components
 * Descriptions
 * Links (link to assignment etc. if digital)
 * Reminders (set for certain times)
@@ -82,14 +81,14 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Preferences
 * Help (how to use program)
 
-#### Integrated Development Enviroment (IDE)
-##### Example Core Components
+### Integrated Development Enviroment (IDE)
+#### Example Core Components
 * **Text Editor (edit & save files)**
 * **Filesystem Mangaer**
 * **Compiler** (run the languages compiler, output results, not create your own)
 * **UI**
 
-##### Additional Components
+#### Additional Components
 * Syntax Highlighting
 * GitHub interface
 * Debugger
