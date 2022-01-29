@@ -31,7 +31,7 @@ If you are interested in how companies address this issue, I would recommend che
 * Communicate!
 
 ## Creating a Project
-For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also some ideas with examples of components for said ideas if you wish to go that route. The Project Template can be found in this repository.
+For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository.
 
 ## Shortcomings Last Semester
 Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
