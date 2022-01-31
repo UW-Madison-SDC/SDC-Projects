@@ -71,18 +71,17 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 ## Business
 ### Task Manager (Calendar etc.)
 #### Example Core Components
-* **Persistently delete, add, edit tasks**
+* **Persistently delete, add, edit, and complete tasks**
 * **Input / Output**
+* **Efficiently display tasks in a calendar format i.e. sorted (UI or otherwise)**
 
 #### Additional Components
-* Descriptions
-* Links (link to assignment etc. if digital)
+* Descriptions, links, subjects, other sub data for tasks
 * Reminders (set for certain times)
 * Sounds - probably linked to reminders
 * Preferences
 * Help (how to use program)
-* Online storage / sync
-* Login with private storage
+* Online storage / sync with login
 * Repeating tasks
 
 ### Integrated Development Enviroment (IDE)
