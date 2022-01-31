@@ -64,8 +64,8 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Enemy AI
 * Online play
 
-### Yahtzee
-### Black Jack
+* ### Yahtzee
+* ### Black Jack
 
 ## Business
 ### Task Manger (Calendar etc.)
