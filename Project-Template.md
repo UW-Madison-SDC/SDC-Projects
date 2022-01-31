@@ -65,7 +65,7 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Online play
 
 ### Other Games
-* Wave Game ([Great tutorial](https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa) that does a great job showing fundamentals. It is a tad outdated though i.e. does not use JavaFX).
+* Wave Game ([Great tutorial](https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa) showing game development fundamentals. It is a tad outdated though i.e. does not use JavaFX).
 * Tower Defense
 
 ## Business
