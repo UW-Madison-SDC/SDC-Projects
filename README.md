@@ -7,7 +7,7 @@ If you have not applied to be a part of the projects and are interested in doing
 **In person days are bolded**
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
-|*2/13*| First Meeting | Be Excited! |
+|**2/13| First Meeting | Be Excited!** |
 |2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
 |**2/27**|  |  |
 |3/6| Checkin on progress | Should be around 40% done |
@@ -15,10 +15,10 @@ If you have not applied to be a part of the projects and are interested in doing
 |3/20| Break |  |
 |**3/27**|  |  |
 |4/3|  |  |
-|**4/10**| Checkin on progress | Should be done with core features |
+|**4/10| Checkin on progress | Should be done with core features** |
 |4/17|  |  |
 |**4/24**|  |  |
-|**5/1**| Presentation!* | A demonstration of your project should be thought out / done |
+|**5/1| Presentation!* | A demonstration of your project should be thought out / done** |
 
 ^Note that this is how much 'feels' done. Software development is infamous for the difficulty of gauging how much work it will take for a particular aspect of a project.
 If you are interested in how companies address this issue, I would recommend checking out Agile methodology. One day methods such as these may become a highlight of the club.
