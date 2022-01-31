@@ -7,7 +7,7 @@ If you have not applied to be a part of the projects and are interested in doing
 **In person days are bolded**
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
-|**2/13**| First Meeting | Be Excited! |
+|__2/13__| First Meeting | Be Excited! |
 |2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
 |**2/27**|  |  |
 |3/6| Checkin on progress | Should be around 40% done |
