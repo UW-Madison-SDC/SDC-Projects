@@ -9,13 +9,13 @@ In person dates are bolded, which are every other non-break week starting 2/13 b
 |:----------:|:--------:|:--------|
 |**2/13**| First Meeting | Be Excited! We will have assigned you to groups |
 |2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
-|**2/27**|  | 20% |
-|3/6|  | Should be around 40% done |
+|**2/27**| 20% done | Structure planned, interfaces decided |
+|3/6| 40% done | Implementing interfaces |
 |3/13| Break |  |
 |3/20| Break |  |
-|**3/27**| Check on Progress | Should be 60% done |
-|4/3|  | 80% |
-|**4/10**| Check on Progress | Should be done with core features (usable, if not pretty) |
+|**3/27**| Check on Progress (60%) | Most of interface fleshed out |
+|4/3| 80% done | Interface done |
+|**4/10**| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
 |4/17|  |  |
 |**4/24**|  |  |
 |**5/1**| Presentation!* | A demonstration of your project should be thought out / done |
@@ -25,10 +25,15 @@ If you are interested in how companies address this issue, I would recommend che
 
 *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.
 
+### About the Timeline
+The timeline is a little bit vague, but it is just guideline. It accounts for no work getting done over Spring Break. It also has a buffer for teams so that they can be up to two weeks behind for the core features and still successfully present. That being said, if you want a more complete project you are best off sticking as close to it as possible or earlier and working on extra features or prettying up your project in the last couple weeks. Dedicated individuals could work on the project over break and then have up to a month for extra features etc.
+
 ## How To Be Successful
+There are 7 weeks (9 including break) to get this project done. **Your project should be sized to be done in 5 weeks** unless you are dedicated and know you will spend a considerable amount of time working on it. At 6 hours a week for each week that would be 30 hours. Average team size of three to four means a combined 90-120 hours. That is a good amount of time, and should be adequate to make something you are proud of. Spending more or less time is up to you. It is not a problem to overestimate how much time a feature will need - finishing early means you can work on additional components without worrying about time.
+
+### Tips
 * Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
-* Put in consistent work rather than putting it off and not getting to it. 
-* Keep in mind that there is only 7 weeks to put your project together (9 if working over break).
+* Put in consistent work rather than putting it off and not getting to it.
 * Communicate!
 
 ## Creating a Project
