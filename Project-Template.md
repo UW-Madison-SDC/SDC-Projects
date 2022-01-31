@@ -65,12 +65,11 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Online play
 
 ### Other Games
-* #### Yahtzee
-* #### Black Jack
-* Or even combine a couple and make a card game application etc.
+* Wave Game ([Great tutorial](https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa) that does a great job showing fundamentals. It is a tad outdated though i.e. does not use JavaFX).
+* Tower Defense
 
 ## Business
-### Task Manger (Calendar etc.)
+### Task Manager (Calendar etc.)
 #### Example Core Components
 * **Persistently delete, add, edit tasks**
 * **Input / Output**
@@ -82,6 +81,9 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Sounds - probably linked to reminders
 * Preferences
 * Help (how to use program)
+* Online storage / sync
+* Login with private storage
+* Repeating tasks
 
 ### Integrated Development Enviroment (IDE)
 #### Example Core Components
@@ -94,4 +96,8 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Syntax Highlighting
 * GitHub interface
 * Debugger
-* Vim or Emac emulation etc.
+* Vim or Emacs emulation etc.
+
+### Site Mockup
+Take one of your favorite sites, and do your best to replicate functionality / look and feel. Best to pick a site that has functionality.
+A great example is making a Trello (board) site.
