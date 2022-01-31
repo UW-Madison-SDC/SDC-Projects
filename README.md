@@ -8,16 +8,16 @@ If you have not applied to be a part of the projects and are interested in doing
 |:----------:|:--------:|:--------|
 |**2/13**| First Meeting | Be Excited! We will have assigned you to groups |
 |2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
-|2/27|  | 20% |
-|3/6| Checkin on progress | Should be around 40% done |
+|**2/27**|  | 20% |
+|3/6|  | Should be around 40% done |
 |3/13| Break |  |
 |3/20| Break |  |
-|3/27|  | 60% |
+|**3/27**| Check on Progress | Should be 60% done |
 |4/3|  | 80% |
-|4/10| Checkin on progress | Should be done with core features (usable, if not pretty) |
+|**4/10**| Check on Progress | Should be done with core features (usable, if not pretty) |
 |4/17|  |  |
-|4/24|  |  |
-|5/1| Presentation!* | A demonstration of your project should be thought out / done |
+|**4/24**|  |  |
+|**5/1**| Presentation!* | A demonstration of your project should be thought out / done |
 
 ^Note that this is how much 'feels' done. Software development is infamous for the difficulty of gauging how much work it will take for a particular aspect of a project.
 If you are interested in how companies address this issue, I would recommend checking out Agile methodology. One day methods such as these may become a highlight of the club.
