@@ -6,14 +6,14 @@ If you have not applied to be a part of the projects and are interested in doing
 ## Timeline (Sundays)
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
-|2/13| First Meeting | Be Excited! We will have assigned you to groups |
+|**2/13**| First Meeting | Be Excited! We will have assigned you to groups |
 |2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
-|2/27|  |  |
+|2/27|  | 20% |
 |3/6| Checkin on progress | Should be around 40% done |
 |3/13| Break |  |
 |3/20| Break |  |
-|3/27|  |  |
-|4/3|  |  |
+|3/27|  | 60% |
+|4/3|  | 80% |
 |4/10| Checkin on progress | Should be done with core features (usable, if not pretty) |
 |4/17|  |  |
 |4/24|  |  |
