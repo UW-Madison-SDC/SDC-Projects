@@ -4,6 +4,7 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
 
 ## Timeline (Sundays)
+In person dates are bolded, which are every other week non-break week starting 2/13 besides the presentation day
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
 |**2/13**| First Meeting | Be Excited! We will have assigned you to groups |
