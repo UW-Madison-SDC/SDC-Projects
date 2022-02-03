@@ -4,7 +4,7 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 ### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
 
 ### Important Notes
-All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teamates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ*
+All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teamates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
 
 ### Project Meetings
 Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
@@ -27,7 +27,7 @@ Project Meetings (checked) are every other non-break week starting **2/13** besi
 |4/24|X| Buffer | |
 |5/1|X| Presentation!* | Consider what a small demonstration would look like |
 
-\* *Informal presentation where you share what you did, how you did, and what you learned with the group. Completed projects will be written about and linked to our website as long as the group agrees to it, and there may be other fun stuff*
+\* *Informal presentation where you share what you did, how you did, and what you learned with the group. Completed projects will be written about and linked to our website as long as the group agrees to it, and there may be other fun stuff.*
 
 ### About the Timeline
 There are 9 weeks from start to the informal presentation. This has been split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. One of the buffer weeks is 4/24 - 5/1, since there are no expectations for the presentation.
