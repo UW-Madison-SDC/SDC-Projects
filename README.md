@@ -18,7 +18,7 @@ In person dates are bolded, which are every other non-break week starting **2/13
 |**4/10**| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
 |4/17| Integration | Integrate all project components |
 |**4/24**| Buffer | |
-|**5/1**| Presentation!* | Have a small demonstration thought out - could wing it too, not a big deal |
+|**5/1**| Presentation!* | Consider what a small demonstration would look like |
 
 \* *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.*
 
