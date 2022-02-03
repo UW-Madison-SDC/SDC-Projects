@@ -54,7 +54,7 @@ This timeline is only a guideline. It also accounts for no work getting done ove
 * Communicate! We are here to help you guys in any capacity we can.
 
 ## Creating a Project
-For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
+Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
 
 ## Shortcomings Last Semester
 Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
