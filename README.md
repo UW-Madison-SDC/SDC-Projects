@@ -47,7 +47,7 @@ This timeline is only a guideline. It also accounts for no work getting done ove
 *Dev time is all time past the planning phase i.e. time spent actually creating the project.*
 
 ## How To Be Successful
-* I strongly recommend meeting with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
+* It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
 * Lean towards overestimating how much time a component will need - finishing early means you can work on additional bonus components without worrying about time.
 * Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
 * Put in consistent work rather than putting it off and not getting to it.
