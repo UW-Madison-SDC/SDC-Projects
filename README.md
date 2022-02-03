@@ -27,7 +27,7 @@ Project Meetings (checked) are every other non-break week starting **2/13** besi
 |4/24|X| Buffer | |
 |5/1|X| Presentation!* | Consider what a small demonstration would look like |
 
-\* *Informal presentation where you share what you did, how you did, and what you learned with the group. We would like to run*
+\* *Informal presentation where you share what you did, how you did, and what you learned with the group. Completed projects will be written about and linked to our website as long as the group agrees to it, and there may be other fun stuff*
 
 ### About the Timeline
 There are 9 weeks from start to the informal presentation. This has been split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. One of the buffer weeks is 4/24 - 5/1, since there are no expectations for the presentation.
