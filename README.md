@@ -46,15 +46,15 @@ This timeline is only a guideline. It also accounts for no work getting done ove
 
 *Dev time is all time past the planning phase i.e. time spent actually creating the project.*
 
+## Creating a Project
+Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
+
 ## How To Be Successful
 * It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
 * Lean towards overestimating how much time a component will need - finishing early means you can work on additional bonus components without worrying about time.
 * Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
 * Put in consistent work rather than putting it off and not getting to it.
 * Communicate! We are here to help you guys in any capacity we can.
-
-## Creating a Project
-Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
 
 ## Shortcomings Last Semester
 Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
