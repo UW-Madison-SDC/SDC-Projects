@@ -1,7 +1,10 @@
 # SDC-Projects
 Welcome to SDC Projects Spring 2022! Everything you need for working through Software Development Club Projects is right here in this GitHub!
 
-If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
+### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
+
+### Project Meetings
+Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time, such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or bounce ideas off other groups too.
 
 ## Timeline (Sundays)
 In person dates are bolded, which are every other non-break week starting **2/13** besides the presentation day
@@ -63,7 +66,7 @@ Projects are going to be similar to last year but we hope to address some challe
 We have attempted to address all of these issues (and of course if there were other issues, please let us know in the project form). 
 * We now have a more concrete definition of programming levels with approximate class breakdown (see form)
 * We are decreasing the randomness of leads by asking for those who are willing to take on the role
-* There is an end of semester project celebration / informal presentation
+* There is an end of semester project celebration / informal **no pressure** presentation to show off what you did
 * This page is made available after our first meeting through the discord
 * We have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. 
 
