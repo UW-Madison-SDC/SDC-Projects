@@ -4,7 +4,7 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 ### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
 
 ### Project Meetings
-Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time, such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or bounce ideas off other groups too.
+Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time, such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
 
 ## Timeline (Sundays)
 In person dates are bolded, which are every other non-break week starting **2/13** besides the presentation day
