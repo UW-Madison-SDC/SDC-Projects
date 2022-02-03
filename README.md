@@ -5,7 +5,7 @@ If you have not applied to be a part of the projects and are interested in doing
 
 ## Timeline (Sundays)
 In person dates are bolded, which are every other non-break week starting **2/13** besides the presentation day
-|Date|Benchmark|Tasks to be done|
+| Date | Benchmark | Tasks to be done |
 |:----------:|:--------:|:--------|
 |**2/13**| First Meeting | Be Excited! Group Assignment |
 |2/20| Project Ideas & Components | Project you want to do is chosen, and components are assigned |
@@ -17,24 +17,25 @@ In person dates are bolded, which are every other non-break week starting **2/13
 |4/3| 80% done | Interface done |
 |**4/10**| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
 |4/17| Integration | Integrate all project components |
-|**4/24**| | |
+|**4/24**| Buffer | |
 |**5/1**| Presentation!* | Have a small demonstration thought out - could wing it too, not a big deal |
 
-* *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.*
+\* *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.*
 
 ### About the Timeline
-There are 9 weeks from start to the informal presentation. I have split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. Don't like the order? Switch it around - do what works with your group.
+There are 9 weeks from start to the informal presentation. I have split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. I count one of the buffer weeks as 4/24 - 5/1, since there are no expectations for the presentation. Don't like the order? Switch it around - do what works with your group.
 
 This timeline is only a guideline. It also accounts for no work getting done over Spring Break.
 
 ### Breaking down the time frame...
+
 | Hrs/wk on project | Total dev hrs. (incl. buffer) | Team dev hrs. (4 people) |
-|:--------:|:---------:|:-------:|:--------:|
-| 2 | 14 | 68 | 
-| 3 | 23 | 104 |
-| 4 | 32 | 140 |
-| 5 | 41 | 176 |
-| 6 | 50 | 212 |
+|:--------:|:--------:|:--------:|
+| 2 | 14 | 64 (68) | 
+| 3 | 23 | 98 (104) |
+| 4 | 32 | 132 (140) |
+| 5 | 41 | 166 (176) |
+| 6 | 50 | 200 (212) |
 
 *Dev time is all time past the planning phase i.e. time spent actually creating the project.*
 
