@@ -4,37 +4,46 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
 
 ## Timeline (Sundays)
-In person dates are bolded, which are every other non-break week starting 2/13 besides the presentation day
+In person dates are bolded, which are every other non-break week starting **2/13** besides the presentation day
 |Date|Benchmark|Tasks to be done|
 |:----------:|:--------:|:--------|
-|**2/13**| First Meeting | Be Excited! We will have assigned you to groups |
-|2/20| Project Ideas and Components | Project you want to do is chosen, and components are assigned |
-|**2/27**| 20% done | Structure planned, interfaces decided |
+|**2/13**| First Meeting | Be Excited! Group Assignment |
+|2/20| Project Ideas & Components | Project you want to do is chosen, and components are assigned |
+|**2/27**| 20% done | Structure planned, interfaces decided if applicable |
 |3/6| 40% done | Implementing interfaces |
 |3/13| Break |  |
 |3/20| Break |  |
 |**3/27**| Check on Progress (60%) | Most of interface fleshed out |
 |4/3| 80% done | Interface done |
 |**4/10**| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
-|4/17|  |  |
-|**4/24**| Integration | All features should be integrated to work as a whole |
-|**5/1**| Presentation!* | A demonstration of your project should be thought out / done |
+|4/17| Integration | Integrate all project components |
+|**4/24**| | |
+|**5/1**| Presentation!* | Have a small demonstration thought out - could wing it too, not a big deal |
 
-^Note that this is how much 'feels' done. Software development is infamous for the difficulty of gauging how much work it will take for a particular aspect of a project.
-If you are interested in how companies address this issue, I would recommend checking out Agile methodology. One day methods such as these may become a highlight of the club.
-
-*Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.
+* *Informal presentation where you share what you did, how you did, and what you learned with the group. For those interested we can put your project on the big screen and you can run through a demonstration.*
 
 ### About the Timeline
-The timeline is a little bit vague, but it is just guideline. It accounts for no work getting done over Spring Break. It also has a buffer for teams so that they can be up to two weeks behind for the core features and still successfully present, which should help with time taken off for midterms etc. That being said, if you want a more complete project you are best off sticking as close to it as possible or earlier and working on extra features or prettying up your project in the last couple weeks. Dedicated individuals could work on the project over break and then have up to a month for extra features etc.
+There are 9 weeks from start to the informal presentation. I have split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. Don't like the order? Switch it around - do what works with your group.
+
+This timeline is only a guideline. It also accounts for no work getting done over Spring Break.
+
+### Breaking down the time frame...
+| Hrs/wk on project | Total dev hrs. (incl. buffer) | Team dev hrs. (4 people) |
+|:--------:|:---------:|:-------:|:--------:|
+| 2 | 14 | 68 | 
+| 3 | 23 | 104 |
+| 4 | 32 | 140 |
+| 5 | 41 | 176 |
+| 6 | 50 | 212 |
+
+*Dev time is all time past the planning phase i.e. time spent actually creating the project.*
 
 ## How To Be Successful
-There are 7 weeks (9 including break) to get this project done. **Your project should be sized to be done in 5 weeks** unless you are dedicated and know you will spend a considerable amount of time working on it. At 6 hours a week for each week that would be 30 hours. Average team size of three to four means a combined 90-120 hours. That is a good amount of time, and should be adequate to make something you are proud of. Spending more or less time is up to you. It is not a problem to overestimate how much time a feature will need - finishing early means you can work on additional components without worrying about time.
-
-### Tips
+* I strongly recommend meeting with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
+* Lean towards overestimating how much time a component will need - finishing early means you can work on additional bonus components without worrying about time.
 * Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
 * Put in consistent work rather than putting it off and not getting to it.
-* Communicate!
+* Communicate! We are here to help you guys in any capacity we can.
 
 ## Creating a Project
 For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, please email me (segedi@wisc.edu) and I will get back to you with my thoughts or I can schedule a chat so we can work through it together if you prefer. Ideally this would come up in our in person project meeting.
