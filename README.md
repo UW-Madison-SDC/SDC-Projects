@@ -54,7 +54,7 @@ This timeline is only a guideline. It also accounts for no work getting done ove
 * Communicate! We are here to help you guys in any capacity we can.
 
 ## Creating a Project
-For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, please email me (segedi@wisc.edu) and I will get back to you with my thoughts or we can schedule a chat so we can work through it together if you prefer. Ideally this would come up in our in person project meeting.
+For those who wish to come up with their own project, check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
 
 ## Shortcomings Last Semester
 Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
@@ -74,5 +74,5 @@ We have attempted to address all of these issues (and of course if there were ot
 * This page is made available after our first meeting through the discord
 * We have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. 
 
-## My Parting Thoughts
+## Parting Thoughts
 Projects are a chance to engage with your peers, learn how to work in a team, experience taking on responsibility and leadership, and work on your development skills. This makes these projects a fantastic oppurtunity for growth; however, they only provide as much as we put into them. In addition to that, they are extracurricular in nature, and everyone understands that classes can become overwhelming and take priority. If it is the case that you no longer wish to work on a project, please communicate with your point of contact that is the case.
