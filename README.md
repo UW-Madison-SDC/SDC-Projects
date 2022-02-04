@@ -6,6 +6,11 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 ### Important Notes
 All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teamates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
 
+You can request to work with other people - there is a box for it on the google form.
+
+### Group Selection
+Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
+
 ### Project Meetings
 Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
 
