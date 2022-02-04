@@ -2,6 +2,7 @@
 Welcome to SDC Projects Spring 2022! Everything you need for working through Software Development Club Projects is right here in this repository!
 
 ### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
+This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering (segedi@wisc.edu).
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teamates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
