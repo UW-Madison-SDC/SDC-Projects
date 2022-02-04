@@ -5,7 +5,7 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering (segedi@wisc.edu).
 
 ### Important Notes
-* All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teamates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
+* All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
 * You can request to work with other people - there is a box for it on the google form.
 
 ### Group Selection
@@ -57,18 +57,18 @@ Check out the Project Template for general guidelines on the difficulty of a pro
 ## How To Be Successful
 * It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
 * Lean towards overestimating how much time a component will need - finishing early means you can work on additional bonus components without worrying about time.
-* Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurriculars a much better time.
+* Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurricular activities a much better time.
 * Put in consistent work rather than putting it off and not getting to it.
 * Communicate! We are here to help you guys in any capacity we can.
 
 ## Shortcomings Last Semester
-Projects are going to be similar to last year but we hope to address some challenges that occured. These are primarily:
+Projects are going to be similar to last year but we hope to address some challenges that occurred. These are primarily:
 * There was a lot of confusion with the random assignment of project leads as there were not enough applicants for the number of those interested in participating in projects
 * Project levels were vague, and so were deadlines about the project, leaving many groups in the dark about when they should be done with what.
 * There was no recognition for the work done on projects
 * Many dropped out of their project, leaving their group members in the cold for a few reasons:
    * Some could not keep up with school work, project was not a priority
-   * Some were frustratred with the project and lack of organization
+   * Some were frustrated with the project and lack of organization
    * Some simply showed up to the first meeting, applied to take part in a project, then realized they overcommited.
 
 ## Addressing the Shortcomings
@@ -80,4 +80,4 @@ We have attempted to address all of these issues (and of course if there were ot
 * We have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. 
 
 ## Parting Thoughts
-Projects are a chance to engage with your peers, learn how to work in a team, experience taking on responsibility and leadership, and work on your development skills. This makes these projects a fantastic oppurtunity for growth; however, they only provide as much as we put into them. In addition to that, they are extracurricular in nature, and everyone understands that classes can become overwhelming and take priority. If it is the case that you no longer wish to work on a project, please communicate with your point of contact that is the case.
+Projects are a chance to engage with your peers, learn how to work in a team, experience taking on responsibility and leadership, and work on your development skills. This makes these projects a fantastic opportunity for growth; however, they only provide as much as we put into them. In addition to that, they are extracurricular in nature, and everyone understands that classes can become overwhelming and take priority. If it is the case that you no longer wish to work on a project, please communicate with your point of contact that is the case.
