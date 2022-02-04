@@ -12,7 +12,7 @@ This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date m
 Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
 
 ### Project Meetings
-Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being Jhanvi and I giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
+Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
 
 ## Timeline (Sundays)
 Project Meetings (checked) are every other non-break week starting **2/13** besides the presentation day
