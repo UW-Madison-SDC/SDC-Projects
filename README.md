@@ -19,9 +19,9 @@ Project Meetings (checked) are every other non-break week starting **2/13** besi
 
 | Date | Meeting | Benchmark | Details |
 |:---:|:----------:|:--------:|:--------:|
-|2/13|X| First Meeting | Be Excited! |
-|2/20|| Project Ideas & Components | Project you want to do is chosen, and components are assigned |
-|2/27|X| 20% done | Structure planned, interfaces decided |
+|2/13|| ~~First Meeting~~ Registration Ends, Group Assignment | Sign up for projects before today! |
+|2/20|X| First Meeting, Project Ideas & Components | Communication mode setup and some ideas formulated |
+|2/27|X| 20% done | Choose project, components / interfaces decided |
 |3/6|| 40% done | Implementing interfaces |
 |3/13|| Break |  |
 |3/20|| Break |  |
