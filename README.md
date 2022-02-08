@@ -1,7 +1,7 @@
 # SDC-Projects
 Welcome to SDC Projects Spring 2022! Everything you need for working through Software Development Club Projects is right here in this repository!
 
-### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://forms.gle/QR5Pr4stjnDHohG36)
+### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://docs.google.com/forms/d/e/1FAIpQLSdHp3OUOjJQKflBzvNSDok1TT48Dx6D74Z72c98wnwccZzl7Q/viewform?usp=sf_link)
 This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering (segedi@wisc.edu).
 
 ### Important Notes
