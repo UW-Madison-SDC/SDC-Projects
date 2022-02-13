@@ -1,4 +1,5 @@
 # Project Teams
+Team leads are the first member for a given team, and are noted with an asterisk
 ## Advanced Teams
 | Team | Name | Email |
 |:-----|:------|:-----|
