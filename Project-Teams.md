@@ -4,8 +4,8 @@ Team leads are the first member for a given team, and are noted with an asterisk
 | Team | Name | Email |
 |:-----|:------|:-----|
 |1|*Khai Bui|kmbui2@wisc.edu|
-|1|Alex Huang|whuang288@wisc.edu|
 |1|Mrigank Kumar (MK)|mkumar42@wisc.edu|
+|1|Alex Huang|whuang288@wisc.edu|
 |1|Yang Qiu|qiu67@wisc.edu|
 |2|*Arthur Wang|arwang5@wisc.edu|
 |2|Kong Pheng Lor|klor23@wisc.edu|
@@ -22,10 +22,9 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |4|Myungjin Shin|mshin52@wisc.edu|
 |5|*Ethan McKellips|emckellips@wisc.edu|
 |5|Emily Ratsavong|ratsavong@wisc.edu|
-|5|Irving Peng|Irvingcpeng@gmail.com|
 |5|Xinyun Ye|xye63@wisc.edu|
-|6|Khai Bui|kmbui2@wisc.edu|
-|6|Vinesh Janarthanan|vjanarthanan@wisc.edu|
+|6|*Vinesh Janarthanan|vjanarthanan@wisc.edu|
+|6|Irving Peng|Irvingcpeng@gmail.com|
 |6|Yingwei Song|ysong279@wisc.edu|
 
 ## Intermediate Teams
