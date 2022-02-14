@@ -16,15 +16,14 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |3|Aidan Yim|ahyim@wisc.edu|
 |3|Ankit Mohanty|mohanty5@wisc.edu|
 |3|Geonho Roh|groh4@wisc.edu|
+|4|*Aditya Tolia|atolia@wisc.edu|
 |4|*Alexander Peseckis|peseckis@wisc.edu|
 |4|Abhishek Koul|akoul2@wisc.edu|
-|4|Aditya Tolia|atolia@wisc.edu|
 |4|Myungjin Shin|mshin52@wisc.edu|
 |5|*Ethan McKellips|emckellips@wisc.edu|
 |5|Emily Ratsavong|ratsavong@wisc.edu|
 |5|Irving Peng|Irvingcpeng@gmail.com|
 |5|Xinyun Ye|xye63@wisc.edu|
-|6|*Aditya Tolia|atolia@wisc.edu|
 |6|Khai Bui|kmbui2@wisc.edu|
 |6|Vinesh Janarthanan|vjanarthanan@wisc.edu|
 |6|Yingwei Song|ysong279@wisc.edu|
