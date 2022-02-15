@@ -78,6 +78,7 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |2|*Allen Gao|agao25@wisc.edu|
 |2|Bowen Quan|bquan2@wisc.edu|
 |2|Nishant Rengasamy|rengasamy@wisc.edu|
+|2|Spandan Jadhav|sujadhav@wisc.edu|
 |3|*Divinaa Raju Velmurugan|rajuvelmurug@wisc.edu|
 |3|Aarushi Gupta|agupta269@wisc.edu|
 |3|Eric Kim|mkim734@wisc.edu|
