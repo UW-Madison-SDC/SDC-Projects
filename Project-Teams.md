@@ -61,6 +61,8 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |8|*Bryce Pum|bmpum@wisc.edu|
 |8|Isha Rustagi|irustagi@wisc.edu|
 |8|David Tymoszenko|dtymoszenko@wisc.edu|
+|8|Sreyas Srivastava|sssrivastav2@wisc.edu|
+|8|Joong Ho Kim|jkim574@wisc.edu|
 |9|*Aditya Roy|roy35@wisc.edu|
 |9|Shreya Jadhav|srjadhav@wisc.edu|
 |9|Jake Christensen|Jrchristens2@wisc.edu|
