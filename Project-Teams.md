@@ -67,6 +67,7 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |9|Shreya Jadhav|srjadhav@wisc.edu|
 |9|Jake Christensen|Jrchristens2@wisc.edu|
 |9|Yesui Ulziibayar|ulziibayar@wisc.edu|
+|9|Shao Xuan Lee|slee2268@wisc.edu|
 
 ## Basic Teams
 | Team | Name | Email |
