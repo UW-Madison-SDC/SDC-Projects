@@ -17,7 +17,7 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |3|Ankit Mohanty|mohanty5@wisc.edu|
 |3|Geonho Roh|groh4@wisc.edu|
 |4|*Aditya Tolia|atolia@wisc.edu|
-|4|*Alexander Peseckis|peseckis@wisc.edu|
+|4|Alexander Peseckis|peseckis@wisc.edu|
 |4|Abhishek Koul|akoul2@wisc.edu|
 |4|Myungjin Shin|mshin52@wisc.edu|
 |5|*Ethan McKellips|emckellips@wisc.edu|
