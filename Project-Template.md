@@ -50,6 +50,7 @@ Additional Components
 
 ### Uno
 Make the family classic, or a spinoff with the "illegal plays" - stacking should be official. With games like this, it is an advantage to know who has what cards, so input / ouput should consider this and work around it.
+
 Example Core Components
 * **Input / Output (incl. display)**
 * **Valid card plays, deck, shuffle**
@@ -70,6 +71,7 @@ Additional Components
 
 ## Business
 ### Task Manager (Calendar etc.)
+
 Example Core Components
 * **Persistently delete, add, edit, and complete tasks**
 * **Input / Output**
@@ -85,6 +87,7 @@ Additional Components
 * Repeating tasks
 
 ### Integrated Development Enviroment (IDE)
+
 Example Core Components
 * **Text Editor (edit & save files)**
 * **Filesystem Mangaer**
