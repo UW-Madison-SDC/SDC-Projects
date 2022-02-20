@@ -29,14 +29,14 @@ Games are fun and can be motiviating to work on because of that.
 ### Chess
 I personally love chess, and I have made it about 4 times now. It is a lot of fun to do and I have found it is a great benchmark for testing my own skills.
 
-#### Example Core Components
+Example Core Components
 * **Input / Output (incl. display)**
 * **Moves, Pieces, Check, Checkmate**
 * **Players, turns - playing the game**
 * **Special Moves (En pessant, castling, pawn promotion)**
 * Stalemate
 
-#### Additional Components
+Additional Components
 * Highlighting playable moves (UI versions)
 * Save Games
 * Move Timer (tournament style)
@@ -50,13 +50,13 @@ I personally love chess, and I have made it about 4 times now. It is a lot of fu
 
 ### Uno
 Make the family classic, or a spinoff with the "illegal plays" - stacking should be official. With games like this, it is an advantage to know who has what cards, so input / ouput should consider this and work around it.
-#### Example Core Components
+Example Core Components
 * **Input / Output (incl. display)**
 * **Valid card plays, deck, shuffle**
 * **Point system**
 * **Special cards (wild, draw 2, skip, etc.)**
 
-#### Additional Components
+Additional Components
 * Save Games
 * Highlighting playable cards (UI versions)
 * Lowscores (given a certain number of games played), or Highscores if you want to embarass your friends
@@ -70,12 +70,12 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 
 ## Business
 ### Task Manager (Calendar etc.)
-#### Example Core Components
+Example Core Components
 * **Persistently delete, add, edit, and complete tasks**
 * **Input / Output**
 * **Efficiently display tasks in a calendar format i.e. sorted (UI or otherwise)**
 
-#### Additional Components
+Additional Components
 * Descriptions, links, subjects, other sub data for tasks
 * Reminders (set for certain times)
 * Sounds - probably linked to reminders
@@ -85,13 +85,13 @@ Make the family classic, or a spinoff with the "illegal plays" - stacking should
 * Repeating tasks
 
 ### Integrated Development Enviroment (IDE)
-#### Example Core Components
+Example Core Components
 * **Text Editor (edit & save files)**
 * **Filesystem Mangaer**
 * **Compiler** (run the languages compiler, output results, not create your own)
 * **UI**
 
-#### Additional Components
+Additional Components
 * Syntax Highlighting
 * GitHub interface
 * Debugger
