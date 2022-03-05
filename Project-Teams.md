@@ -32,7 +32,6 @@ Team leads are the first member for a given team, and are noted with an asterisk
 |:-----|:------|:-----|
 |1|*Kevin Phouisangiem|phouisangiem@wisc.edu|
 |1|Pranav Poddutoori|ppoddutoori@wisc.edu|
-|1|Megan Hawley|mehawley@wisc.edu|
 |1|Aayush Bharadwaj|abbharadwaj@wisc.edu|
 |2|*Onur Kanmaz|kanmaz@wisc.edu|
 |2|Shreyas Davuluri|sdavuluri@wisc.edu|
