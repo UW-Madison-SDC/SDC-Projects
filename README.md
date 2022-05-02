@@ -30,7 +30,7 @@ Project Meetings (checked) are every other non-break week starting **2/13** besi
 |4/10|X| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
 |4/17|| Integration | Integrate all project components |
 |4/24|X| Buffer | |
-|5/4|X| Presentation!* | (was ~~5/1~~ Consider what a small demonstration would look like |
+|5/4|X| Presentation!* | (was ~~5/1~~) Consider what a small demonstration would look like |
 
 \* *Informal presentation where you share what you did, how you did, and what you learned with the group. Completed projects will be written about and linked to our website as long as the group agrees to it, and there may be other fun stuff.*
 
