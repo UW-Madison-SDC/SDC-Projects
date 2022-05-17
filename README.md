@@ -5,7 +5,7 @@ Welcome to SDC Projects Spring 2022! Everything you need for working through Sof
 This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering (segedi@wisc.edu).
 
 ### Important Notes
-* All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages, if you want to learn more about that, ask AJ.*
+* All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
 * You can request to work with other people - there is a box for it on the google form.
 
 ### Group Selection
@@ -41,18 +41,19 @@ This timeline is only a guideline. It also accounts for no work getting done ove
 
 ### Breaking down the time frame...
 
-| Hrs/wk on project | Total dev hrs. (incl. buffer) | Team dev hrs. (4 people) |
+| Hrs/wk on project | Total dev<sup>1</sup> hrs. + buffer | Team of 4 dev hrs. |
 |:--------:|:--------:|:--------:|
-| 2 | 14 | 64 (68) | 
-| 3 | 23 | 98 (104) |
-| 4 | 32 | 132 (140) |
-| 5 | 41 | 166 (176) |
-| 6 | 50 | 200 (212) |
+| 2 | 14 (18) | 56 (72) | 
+| 3 | 21 (27) | 84 (108) |
+| 4 | 28 (36) | 112 (144) |
+| 5 | 35 (45) | 140 (180) |
+| 6 | 42 (54) | 168 (216) |
 
-*Dev time is all time past the planning phase i.e. time spent actually creating the project.*
+1. *Dev time is all time past the planning phase i.e. time spent actually creating the project.*
+*(Hours including break)*
 
 ## Creating a Project
-Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email AJ (segedi@wisc.edu) to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
+Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email a VP of Engineering to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
 
 ## How To Be Successful
 * It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
