@@ -2,7 +2,7 @@
 Welcome to SDC Projects Spring 2022! Everything you need for working through Software Development Club Projects is right here in this repository!
 
 ### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://docs.google.com/forms/d/e/1FAIpQLSdHp3OUOjJQKflBzvNSDok1TT48Dx6D74Z72c98wnwccZzl7Q/viewform?usp=sf_link)
-This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering (segedi@wisc.edu).
+This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering.
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
@@ -12,7 +12,7 @@ This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date m
 Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
 
 ### Project Meetings
-Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to talk to Jhanvi or I about any questions you have or to bounce ideas off other groups.
+Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to ask any questions you have or to bounce ideas off other groups.
 
 ## Timeline (Sundays)
 Project Meetings (checked) are every other non-break week starting **2/13** besides the presentation day
